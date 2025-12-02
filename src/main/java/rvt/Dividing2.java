@@ -1,4 +1,4 @@
-package Dividing;
+package rvt;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Dividing;
+package rvt;
 
 public class Dividing4 {
     public static void main(String[] args) {
