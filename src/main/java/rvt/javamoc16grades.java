@@ -16,7 +16,6 @@ public class javamoc16grades {
             System.out.println("Nice you scored" + marking + "%");
 
         }
-
         else if (marking >= 80) {
             System.out.println("Nice you scored " + marking + "%");
         }
