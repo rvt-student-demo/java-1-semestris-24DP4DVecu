@@ -36,13 +36,11 @@ public class detalas {
             System.out.println("Pasutijums ir kartiba.");
         }
 
-        
         int kopejaCena = skruves * BOLT_PRICE
                        + uzgriezni * NUT_PRICE
                        + paplaksnes * WASHER_PRICE;
 
         System.out.println("Kopeja cena: " + kopejaCena);
-
         sc.close();
     }
 }
