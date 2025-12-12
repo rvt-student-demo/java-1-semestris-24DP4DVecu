@@ -30,8 +30,7 @@ public class Delikatese {
 
         Double kopaa = cena + piegades_cena;
 
-        System.out.println("Rēķins:");
-        
+        System.out.println("Rēķins:"); 
         System.out.println("   Prece: " + prece);
         System.out.println("   Cena: " + cena);
         System.out.println("   Piegāde: " + piegades_cena);
