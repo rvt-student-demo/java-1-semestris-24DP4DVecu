@@ -12,7 +12,6 @@ public class boxTester {
 
         System.out.println( "Length: " + box.getLength() + "\nHeight: " + box.getHeight() + "\nWidth:  " + box.getWidth())  ;
 
-       
 
     }
 
