@@ -8,7 +8,6 @@ public class GiftTax {
         System.out.println("Enter the value of the gift: ");
         Double valuegift = scanner.nextDouble();
         
-
             Double value = 0.0;
             if(valuegift >= 5000){
             value = (100 + (valuegift-5000)*0.08);
