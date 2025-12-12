@@ -101,7 +101,6 @@ public class JMArrayList {
 
         removeLast(strings);
         removeLast(strings);
-
         System.out.println(strings);
     }
 }
